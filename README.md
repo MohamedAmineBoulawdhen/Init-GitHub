@@ -19,3 +19,8 @@ This tutorial will guide you through the process of creating a Git repository an
 14. Check the commit history using `git log`.
 15. Change global settings to core.pager=cat using `git config --global core.pager cat`.
 16. List all global Git configurations using `git config --list --global`.
+
+---
+
+🙌 If you found this repository helpful, show your support by starring it. Your support means a lot. 
+Thank you for your time and consideration!
